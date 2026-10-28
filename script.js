@@ -79,7 +79,7 @@ $("#newsList").innerHTML = news.map(n =>
 
 // Gallery
 $("#gallery").innerHTML = [PIC.students, PIC.campus, PIC.girls, PIC.bishop, PIC.staff, PIC.sign, PIC.bus, PIC.music]
-  .map(p => `<img src="${p}" alt="School photo" onclick="window.open(this.src)">`).join("");
+  .map(p => `<img src="${p}" alt="" onclick="window.open(this.src)">`).join("");
 
 // ============ APPLICATION FORM ============
 $("#applyForm").onsubmit = e => {
