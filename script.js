@@ -7,13 +7,12 @@ const admin=[
 const subjects={
  o:["English","Mathematics","Physics","Chemistry","Biology","History","Geography","CRE","Entrepreneurship","Computer Studies","German","Luganda","Fine Art","Agriculture","Physical Education","Music"],
  a:["General Paper","Sub-Mathematics","Sub-ICT","Physics","Chemistry","Biology","History","Geography","Economics","Entrepreneurship","Literature","Divinity","Art"]};
-const facilities=[
- ["Science Laboratories","../images (4).jfif","Well-equipped labs for Physics, Chemistry and Biology practicals."],
- ["Classroom Blocks","../images (6).jfif","Spacious multi-storey blocks with balconies and open corridors."],
- ["Chapel & Worship","../images (8).jfif","Regular Masses and prayer, led by clergy and the school chaplain."],
- ["Music & Arts","../images (11).jfif","Violin, choir and band activities that build talent."],
- ["School Bus","../images (10).jfif","Safe transport for day scholars and school trips."],
- ["Library & ICT","../images (2).jfif","Library and computer facilities supporting independent study."]];
+ const facilities=["Science Laboratories","lab.jpg","Well-equipped labs for Physics, Chemistry and Biology practicals."],
+ ["Classroom Blocks","building.jpg","Spacious multi-storey blocks with balconies and open corridors."],
+ ["Chapel & Worship","mass.jpg","Regular Masses and prayer, led by clergy and the school chaplain."],
+ ["Music & Arts","music.jpg","Violin, choir and band activities that build talent."],
+ ["School Bus","bus.jpg","Safe transport for day scholars and school trips."],
+ ["Library & ICT","campus.jpg","Library and computer facilities supporting independent study."]];
 const news=[
  ["Admissions open for 2027","Applications for S.1 and S.5 are now being received online and at the school office.","2026-10-20"],
  ["Mass with the Bishop","Students joined the Bishop for a colourful Mass and celebration at the school.","2026-10-12"],
